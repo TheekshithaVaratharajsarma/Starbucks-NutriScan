@@ -16,3 +16,5 @@ Beverage Categories include different categories of drinks such as classic espre
 ![Screenshot 2024-01-09 215021](https://github.com/TheekshithaVaratharajsarma/Starbucks-NutriScan/assets/129731048/04e9d85f-8db5-44d0-9bff-8b3f7e490870)
 
 ![image](https://github.com/TheekshithaVaratharajsarma/Starbucks-NutriScan/assets/129731048/fbec7a97-db0a-47e5-a799-7bee1bd9463d)
+
+![image](https://github.com/TheekshithaVaratharajsarma/Starbucks-NutriScan/assets/129731048/eceddcfa-b3e6-4f01-8ebb-fbf382f84481)
